@@ -1,0 +1,5 @@
+Architecture,Scalability,Performance,Complexity
+Layered,Medium,High,Low
+Microservices,High,Medium,High
+EventDriven,High,High,High
+Monolithic,Low,Medium,Low
