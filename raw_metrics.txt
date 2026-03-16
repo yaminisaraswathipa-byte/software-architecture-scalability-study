@@ -1,0 +1,12 @@
+example.py
+    LOC: 23
+    LLOC: 19
+    SLOC: 19
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%

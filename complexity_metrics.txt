@@ -1,0 +1,7 @@
+example.py
+    F 1:0 calculate_total - A (3)
+    F 11:0 find_max - A (3)
+    F 19:0 check_even - A (2)
+
+3 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.6666666666666665)
